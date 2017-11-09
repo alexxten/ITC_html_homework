@@ -1,0 +1,83 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #222;
+}
+
+h1 {
+  font-size: 2rem;
+  font-variant: small-caps;
+  font-weight: 400;
+  text-align: center;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #aaa
+}
+
+h2 {
+  font-size: 1,5rem;
+  font-weight: 500;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #aaa;
+}
+
+h3 {
+  font-size: 1,3125rem;
+  font-weight: 600;
+}
+
+h4 {
+  font-size: 1,125rem;
+  font-weight: 600;
+}
+
+.content,
+figure {
+  margin: 15px 40px;
+  padding: 15px;
+  width: 250px;
+  background-color: #eee;
+  border: 1px;
+  border-radius: 3px;
+  border-color: #ddd;
+}
+
+.mainpic {
+  font-weight: 500;
+}
+
+.otherpic {
+  font-style: italic;
+  font-size: 0,8125rem;
+}
+
+img {
+  width: 100%;
+  border-radius: 3px;
+}
+
+p {
+  text-align: justify;
+  text-indent: 40px;
+}
+
+a {
+  color: #0088ff;
+  text-decoration: none; 
+}
+
+blockquote {
+  padding: 15px;
+  font-style: italic;
+  background-color: #eee;
+  border-radius: 3px;
+  border: 1px;
+  border-style: solid;
+  border-color: #ddd;
+}
+
+q {
+  quotes: "\00ab" "\00bb";
+  font-style: italic;
+  color: #888;
+}
