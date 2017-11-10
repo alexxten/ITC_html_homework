@@ -1,6 +1,6 @@
 /* Задание 1 */
 .task1__scary-text {
-  font-family: 'Nosifer';
+  @import url('https://fonts.googleapis.com/css?family=Nosifer');
   color: red;
   font-size: 2rem;
 }
